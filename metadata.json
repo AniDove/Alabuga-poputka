@@ -1,0 +1,6 @@
+{
+  "name": "Попутка Алабуга",
+  "description": "Сервис совместных поездок по Елабуге и ОЭЗ Алабуга: поиск, бронирование, чат, баланс и админка",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

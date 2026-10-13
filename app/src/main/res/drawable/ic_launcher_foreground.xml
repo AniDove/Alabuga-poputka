@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glow / Route circle -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,22 C67.25,22 78,32.75 78,46 C78,61 54,82 54,82 C54,82 30,61 30,46 C30,32.75 40.75,22 54,22 Z" />
+    <!-- Pin inner circle -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,46m-19,0a19,19 0,1,1 38,0a19,19 0,1,1 -38,0" />
+    <!-- Car silhouette inside pin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60.5,38 L47.5,38 C45.5,38 44.5,39.5 44,41 L41.5,46 C40.5,46 40,47 40,48 L40,54 C40,54.8 40.7,55.5 41.5,55.5 L42,55.5 C42.8,55.5 43.5,54.8 43.5,54 L43.5,52.5 L64.5,52.5 L64.5,54 C64.5,54.8 65.2,55.5 66,55.5 L66.5,55.5 C67.3,55.5 68,54.8 68,54 L68,48 C68,47 67.5,46 66.5,46 L64,41 C63.5,39.5 62.5,38 60.5,38 Z M45.5,42.5 C45.7,42 46.2,41.5 47.5,41.5 L60.5,41.5 C61.8,41.5 62.3,42 62.5,42.5 L64.2,46 L43.8,46 L45.5,42.5 Z M44.5,49.5 C43.7,49.5 43,48.8 43,48 C43,47.2 43.7,46.5 44.5,46.5 C45.3,46.5 46,47.2 46,48 C46,48.8 45.3,49.5 44.5,49.5 Z M63.5,49.5 C62.7,49.5 62,48.8 62,48 C62,47.2 62.7,46.5 63.5,46.5 C64.3,46.5 65,47.2 65,48 C65,48.8 64.3,49.5 63.5,49.5 Z" />
+    <!-- Small speed / carpool passenger dots -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M38,65 C38,62 40,60 42.5,60 C45,60 47,62 47,65 Z M42.5,58 C43.6,58 44.5,57.1 44.5,56 C44.5,54.9 43.6,54 42.5,54 C41.4,54 40.5,54.9 40.5,56 C40.5,57.1 41.4,58 42.5,58 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M61,65 C61,62 63,60 65.5,60 C68,60 70,62 70,65 Z M65.5,58 C66.6,58 67.5,57.1 67.5,56 C67.5,54.9 66.6,54 65.5,54 C64.4,54 63.5,54.9 63.5,56 C63.5,57.1 64.4,58 65.5,58 Z" />
+</vector>
